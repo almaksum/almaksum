@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+## Welcome To My Profile
 
 ![almaksum](asset/header-banner.png)
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Have Fun With My Profile
+### <hr style="color: black;">
 
 <img data-importer="image" align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNyM2xxenl3cGtmc3JoaXpucW4wZHB2ZjYxank1eGIyY2o0MjZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRadbpNvXdtc9CymNm/giphy.gif"  />
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="socials" align="center">
-   <a href="https://www.linkedin.com/in/mukhamad-muhdzor-al-maksum-6722812a7/" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+   <a href="mailto:almaksum3@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
   <a href="https://www.linkedin.com/in/mukhamad-muhdzor-al-maksum-6722812a7/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
 </div>
 
